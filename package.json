@@ -1,0 +1,16 @@
+{
+  "name": "ts-migrate-example",
+  "version": "1.0.0",
+  "description": "Example project of using ts-migrate for migrating from JS to TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.0.30",
+    "ts-migrate": "^0.1.35",
+    "typescript": "^5.0.2"
+  }
+}
